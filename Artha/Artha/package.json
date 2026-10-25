@@ -1,0 +1,1 @@
+{"name":"artha","private":true,"version":"0.1.0","packageManager":"pnpm@9.15.0","scripts":{"dev:web":"pnpm --filter @artha/web dev","dev:mobile":"pnpm --filter @artha/mobile start","build:web":"pnpm --filter @artha/web build","typecheck":"pnpm -r typecheck"},"devDependencies":{"typescript":"^5.7.3"}}
